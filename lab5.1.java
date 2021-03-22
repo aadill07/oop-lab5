@@ -1,0 +1,1 @@
+public class Fraction_Runner {	public static void main(String[] args) {		Fraction w=new Fraction();		Fraction w1=new Fraction(16,4);		w1.get();		if(w1.equals(60,22))		{		System.out.println("equal");			}		else		{			System.out.println("not equal");		}			}}
